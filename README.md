@@ -34,8 +34,4 @@ This project involves the evaluation and comparison of different methodologies f
 
 ## Conclusion
 
-This study highlights the importance of choosing the appropriate pricing model based on market conditions and computational resources. The comparison between Monte Carlo and PDE approaches under the Black-Scholes model and between Black-Scholes and Heston models under Monte Carlo simulations provides insights into their respective strengths and limitations.
-
----
-
-You can expand on this summary based on more specific details of your project if needed. This version gives a brief yet comprehensive overview of the methodologies, their advantages, and limitations, as well as the key findings and conclusions.
+This study highlights the importance of choosing the appropriate pricing model based on market conditions and computational resources. The comparison between Monte Carlo and PDE approaches under the Black-Scholes model and between Black-Scholes and Heston models under Monte Carlo simulations provides insights into their respective strengths and 
